@@ -24,10 +24,10 @@ https://www.apachefriends.org/
 
 
 
-utilizatori, cu câmpurile user varchar(10), privilege int(1) și hash varchar(255)
-likes, cu câmpurile id int(10), user varchar(10)
-comments, cu câmpurile comment_id int(10) cu auto increment, user varchar(10), id int(10), data datetime și comment varchar(500)
-imagini, cu câmpurile id int(10), url varchar(40), tags varchar(200), uploader varchar(100), sha256 varchar(64) și date date
+  * utilizatori, cu câmpurile user varchar(10), privilege int(1) și hash varchar(255)
+  * likes, cu câmpurile id int(10), user varchar(10)
+  * comments, cu câmpurile comment_id int(10) cu auto increment, user varchar(10), id int(10), data datetime și comment varchar(500)
+  * imagini, cu câmpurile id int(10), url varchar(40), tags varchar(200), uploader varchar(100), sha256 varchar(64) și date date
 
 
 
