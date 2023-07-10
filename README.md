@@ -10,17 +10,17 @@ Schema bloc:
 Pasi pentru instalare:
 
 
-Instalare XAMPP
+- Instalare XAMPP
 https://www.apachefriends.org/
 
 
-Clonare repozitoriu in ../xampp/htdocs/
+- Clonare repozitoriu in ../xampp/htdocs/
 
 
-Creare folder pentru imagini temp și temp
+- Creare folder pentru imagini temp și temp
 
 
-Creare baza de date cu numele "aikive" și următoarele tabele
+- Creare baza de date cu numele "aikive" și următoarele tabele
 
 
 
@@ -31,14 +31,14 @@ imagini, cu câmpurile id int(10), url varchar(40), tags varchar(200), uploader 
 
 
 
-Instalare stable diffusion web ui conform instrucțiunilor de mai jos
+- Instalare stable diffusion web ui conform instrucțiunilor de mai jos
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 
-Adaugare în webui-user.bat la COMMANDLINEARGS: "--api", pentru activarea api-ului
+- Adaugare în webui-user.bat la COMMANDLINEARGS: "--api", pentru activarea api-ului
 
 
-Pornire server Apache și MySQL în XAMPP
+- Pornire server Apache și MySQL în XAMPP
 
 
-Pornire server stable diffusion prin executarea webui-user.bat
+- Pornire server stable diffusion prin executarea webui-user.bat
